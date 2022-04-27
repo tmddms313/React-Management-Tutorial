@@ -13,7 +13,6 @@ app.get("/api/customers", (req, res) => {
     {
       id: 1,
       image: "https://placeimg.com/64/64/1",
-      /*위에 사이트는 사이트는 이미지를 랜덤으로 보여주는 사이트 */
       name: "이승은",
       birthday: "000408",
       gender: "여자",
